@@ -1,2 +1,6 @@
-# curso-python-pip-2808
-# Steps
+#game project
+
+```sh
+cd game
+python3 main.py
+```
